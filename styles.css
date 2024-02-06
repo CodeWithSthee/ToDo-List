@@ -5,12 +5,15 @@
     box-sizing: border-box;
 }
 
+body{
+    background: linear-gradient(to bottom, #153677, #4e0857) fixed;
+}
+
 .container-box{
     width: 100%;
     height: 100vh;
     padding: 10px;
-    background: linear-gradient(to bottom, #153677, #4e0857);
-    background-size: cover;
+
 }
 
 .todo-logo{
